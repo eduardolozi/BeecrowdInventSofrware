@@ -1,0 +1,15 @@
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\bin\Debug\net7.0\Bee1050.exe
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\bin\Debug\net7.0\Bee1050.deps.json
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\bin\Debug\net7.0\Bee1050.runtimeconfig.json
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\bin\Debug\net7.0\Bee1050.dll
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\bin\Debug\net7.0\Bee1050.pdb
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\obj\Debug\net7.0\Bee1050.csproj.AssemblyReference.cache
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\obj\Debug\net7.0\Bee1050.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\obj\Debug\net7.0\Bee1050.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\obj\Debug\net7.0\Bee1050.AssemblyInfo.cs
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\obj\Debug\net7.0\Bee1050.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\obj\Debug\net7.0\Bee1050.dll
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\obj\Debug\net7.0\refint\Bee1050.dll
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\obj\Debug\net7.0\Bee1050.pdb
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\obj\Debug\net7.0\Bee1050.genruntimeconfig.cache
+C:\Users\eduar\Documents\CodigosInvent\Bee1050\obj\Debug\net7.0\ref\Bee1050.dll

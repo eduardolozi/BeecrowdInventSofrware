@@ -1,0 +1,15 @@
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\bin\Debug\net7.0\Bee1848.exe
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\bin\Debug\net7.0\Bee1848.deps.json
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\bin\Debug\net7.0\Bee1848.runtimeconfig.json
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\bin\Debug\net7.0\Bee1848.dll
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\bin\Debug\net7.0\Bee1848.pdb
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\obj\Debug\net7.0\Bee1848.csproj.AssemblyReference.cache
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\obj\Debug\net7.0\Bee1848.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\obj\Debug\net7.0\Bee1848.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\obj\Debug\net7.0\Bee1848.AssemblyInfo.cs
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\obj\Debug\net7.0\Bee1848.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\obj\Debug\net7.0\Bee1848.dll
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\obj\Debug\net7.0\refint\Bee1848.dll
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\obj\Debug\net7.0\Bee1848.pdb
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\obj\Debug\net7.0\Bee1848.genruntimeconfig.cache
+C:\Users\eduar\Documents\CodigosInvent\Bee1848\obj\Debug\net7.0\ref\Bee1848.dll
