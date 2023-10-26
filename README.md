@@ -1,2 +1,4 @@
 # BeecrowdInventSofrware
 Nestes códigos foram testados as bases da sintaxe da Linguagem C#, tais como o uso do Console, de Output e Input, de CultureInfo, de vetores e de Dicionários.
+
+Além disso, os mesmos códigos também estão em JavaScript.
